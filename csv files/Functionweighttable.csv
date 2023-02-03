@@ -1,15 +1,15 @@
-;Daylight;Closeness to ground;Closeness to facade;Sound;Prox. Main road;neededvoxels
-Elderly units;0.9;0.5;0.9;0.5;0;3000
-Starter units;0.9;0;0.8;0.1;0;3000
-Student units;0.7;0;0.6;0;0;7000
-Co-livingroom (elderly);0.5;0.5;0;0.5;0;1000
-Co-gardening;0.9;0;0;0.3;0;1000
-Elderly care centre;0.4;0.5;0;0.5;0.3;500
-Workspaces (3 types. atlier etc.);0.7;0;0;0.3;0;1500
-Parking (shared mobility);0;0.9;0;0;0;10
-Day care;0.4;0.3;0;0;0;500
-Playground (In- & Outside);0.5;0.9;0;0;0;1000
-Spa/gym;0;0;0;0;0;1500
-Supermarket;0;0.9;0.5;0;0;2000
-Cafe + restaurant;0.5;0.9;0;0.3;0;2000
-Library;0.7;0.5;0;0.3;0;1500
+;Daylight;Closeness to ground;Closeness to facade;Sound;Prox. Main road;neededvoxels;;;
+Elderly units;0.9;0.7;0.9;0.9;0.1;700;;;
+Starter units;0.9;0.1;0.9;0.6;0.1;700;;;
+Student units;0.9;0.5;0.9;0.3;0.1;700;;;
+Co-livingroom (elderly);0.7;0.7;0.7;0.7;0.1;100;;;
+Co-gardening;0.9;0.1;0.1;0.2;0.1;200;;;
+Elderly care centre;0.4;0.7;0.3;0.4;0.3;100;;;
+Workspaces (3 types. atlier etc.);0.7;0.6;0.9;0.7;0.3;500;;;
+Parking (shared mobility);0.1;0.9;0.9;0.1;0.9;10;;;
+Day care;0.6;0.5;0.6;0.3;0.6;200;;;
+Playground (In- & Outside);0.7;0.9;0.9;0.1;0.3;100;;;
+Spa/gym;0.1;0.5;0.2;0.6;0.2;200;;;
+Supermarket;0.2;0.9;0.1;0.2;0.3;350;;;
+Cafe + restaurant;0.6;0.7;0.3;0.6;0.5;450;;;
+Library;0.75;0.7;0.8;0.8;0.3;500;;;
